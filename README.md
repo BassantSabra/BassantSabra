@@ -1,6 +1,6 @@
 # Hello, I'm Bassant Ahmed 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest in data science. I love transforming data into actionable insights and telling compelling stories through data visualization.
+Welcome to my GitHub profile! I'm a passionate data analysis with a keen interest in data science. I love transforming data into actionable insights and telling compelling stories through data visualization.
 
 ## 🚀 About Me
 
