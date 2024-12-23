@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate data analysis with a keen interes
 
 - **Languages:** Python, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** Microsoft SQL server
 - **Tools:** Excel , Power BI, Jupyter 
 
 Thank you for visiting my profile! Feel free to explore my repositories, and let's connect to share knowledge and insights.
