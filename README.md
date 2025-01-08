@@ -1,7 +1,6 @@
 # Hello, I'm Bassant Ahmed 👋
 
-Welcome to my GitHub profile! I'm a passionate data analysis with a keen interest in data science. I love transforming data into actionable insights and telling compelling stories through data visualization.
-
+Welcome to my GitHub profile! I am a data analyst with a strong foundation in research. I am driven by a passion for exploring details to uncover meaningful insights. My engineering and scientific research background honed my analytical skills and precision, which now power my work in data analysis. I specialize in leveraging tools like Python, SQL, Excel, and Power Bi to enhance data quality and transform it into actionable strategies. Transitioning from research to analytics allows me to apply my meticulous approach to solving real-world problems and driving impactful decisions.
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring big data technologies.
